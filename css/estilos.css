@@ -1,7 +1,7 @@
 :root {
     --primary: rgba(5, 4, 22, 0.774);
-    --light: #ffffff;
-    --grey: #ffffff;
+    --light: white;
+    --grey: white;
 }
 body {
     overflow: hidden;
